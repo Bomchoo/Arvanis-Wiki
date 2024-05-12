@@ -4,8 +4,6 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
-    - navigation.sections
-    - navigation.expand
     - navigation.path
     - navigation.indexes
     - navigation.top
