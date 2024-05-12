@@ -21,7 +21,7 @@ Arvanis is home to a myriad of races, each with their own unique cultures and hi
 - **Orcs**: Encounter the proud and fierce orc tribes, struggling to reclaim their honor and place in the world.
 - **Humans**: Engage with the most versatile and politically driven race, whose kingdoms and alliances dominate much of Arvanis.
 
-For more on Races and their origins in Arvanis, please see the Races Page.
+For more on Races and their origins in Arvanis, please see the Player Races Page.
 
 ## Politics
 
