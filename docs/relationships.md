@@ -4,7 +4,7 @@
 
 ### Relations with Neighboring Nations
 
-- **Vardum**
+- **Vardun**
   - Viewed as a critical trade partner.
   - **Mutual Interests**: Maritime industries and commerce.
   - **Agreements**: Longstanding trade agreement facilitating the exchange of materials and goods.
@@ -18,7 +18,7 @@
   - Relationship marked by caution and limited engagement.
   - **Trade**: Focused on medicinal botanicals unique to Ombra.
 
-## Vardum
+## Vardun
 
 ### Relations with Neighboring Nations
 
@@ -42,7 +42,7 @@
   - Strong bilateral relationships focused on mutual development.
   - **Events**: Annual cultural festivals alternating host nations.
 ---
-- **Vardum**
+- **Vardun**
   - Strategic alliances complemented by competitive dynamics.
   - **Fields of Cooperation**: Science and technology.
 ---
@@ -56,7 +56,7 @@
 - **Tirial**
   - Cautious engagement with a focus on resource-based trade.
 ---
-- **Vardum**
+- **Vardun**
   - Continuing tensions with controlled and negotiated trade interactions.
 ---
 - **Eltheria**
@@ -65,11 +65,11 @@
 ## Key Elements of Regional Dynamics
 
 - **Alliances**: 
-  - Strongest between Tirial and Vardum.
+  - Strongest between Tirial and Vardun.
   - Eltheria often acts as a regional mediator.
 
 - **Potential Conflicts**:
-  - Historical grievances between Ombra and Vardum.
+  - Historical grievances between Ombra and Vardun.
 
 - **Trade Agreements**:
   - Extensive agreements on resource sharing and technology exchange.
