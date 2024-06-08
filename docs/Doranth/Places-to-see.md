@@ -8,28 +8,31 @@ Located near the city center, the market district spreads across several blocks,
 
 ### Key Features and Notable Locations
 
-1. **The Silver Spoon Bistro:**
+1. **The Gilded Lily** 
+    - Is a charming inn known for its warm hospitality and quaint, vintage decor. This establishment boasts beautifully appointed rooms, each adorned with floral wallpaper and antique furnishings that evoke a sense of nostalgia. The inn is a favored stop for both weary travelers seeking comfort and adventurers looking for a base before their next journey.
+
+2. **The Silver Spoon Bistro:**
    - A popular eatery known for its exquisite blend of local and exotic cuisines. The bistro is run by a renowned half-elf chef, Liriel Sunmixer, who is always eager to share her latest culinary discoveries.
 
-2. **Grimbold’s Gear and Gadgets:**
+3. **Grimbold’s Gear and Gadgets:**
    - Owned by a charismatic gnome tinkerer, Grimbold, this shop specializes in mechanical devices and unusual contraptions. Adventurers often visit to purchase custom gear or get their equipment repaired.
 
-3. **The Mystic’s Eye:**
+4. **The Mystic’s Eye:**
    - A small, dimly-lit shop that deals in arcane artifacts, spell components, and potions. The shopkeeper, a mysterious figure known as Madam Vara, is rumored to possess foresight abilities and offers fortune-telling services alongside her wares.
 
-4. **Hammersong Smithy:**
+5. **Hammersong Smithy:**
    - The clang of metal striking metal rings out from this forge, run by a dwarf brother-sister duo, Tholin and Thalia Hammersong. They are well-respected for their craftsmanship in weapons and armor.
 
-5. **Saffron’s Silk and Satin:**
+6. **Saffron’s Silk and Satin:**
    - This luxurious fabric store sells the finest cloths brought from distant lands. Managed by Saffron, a charismatic and savvy merchant, the shop caters to the city’s elite looking for custom tailoring.
 
-6. **The Daily Bread:**
+7. **The Daily Bread:**
    - Known for its hearty and wholesome offerings, this bakery is a staple for locals. The baker, an elderly human named Old Ben, delights in sharing stories of his travels with every loaf he sells.
 
-7. **The Alchemist’s Alembic:**
+8. **The Alchemist’s Alembic:**
    - A potion shop that also doubles as an alchemist’s lab. It’s run by a keen young alchemist, Jorvin, who experiments with new potions that adventurers can buy or test (at their own risk).
 
-8. **The Open Market:**
+9. **The Open Market:**
    - The central area of the market district where farmers and local producers sell their goods directly from carts and tables. Here, one can find fresh fruits, vegetables, cheeses, meats, and flowers.
 
 ### Atmosphere and Activities
