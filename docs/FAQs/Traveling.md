@@ -174,3 +174,27 @@ Adventurers should consider their physical and magical needs when booking train 
 Booking in advance is recommended, especially for First Class and Private Rooms, to ensure availability and the best recovery conditions during peak travel times or following strenuous adventures.
 
 For detailed prices, amenities, and additional services, adventurers should visit the booking office at Doranth Central.
+
+---
+
+## Train Snack Bar Menu
+
+Below is a table listing the snacks and drinks offered on trains from Doranth Central. Each item includes its price, a brief description, and the effects it has on health or status conditions.
+
+| Item                 | Price (Silver Coins) | Description                                                    | Effects                                                  |
+|----------------------|----------------------|----------------------------------------------------------------|----------------------------------------------------------|
+| **Healing Honey Nuts** | 5                    | A small pouch of nuts glazed with magical honey.               | Restores 5 HP.                                           |
+| **Elven Bread**        | 10                   | Slice of dense, nutrient-rich bread made with forest berries.  | Restores 10 HP, counts as one meal.                      |
+| **Mystic Mushroom Jerky** | 8                | Dried mushrooms seasoned with herbs.                           | Cures confusion or mental disorientation.                |
+| **Dwarven Stout**      | 6                    | Dark beer brewed by dwarves, strong and hearty.                | +1 resistance to cold for 1 hour.                        |
+| **Celestial Chamomile Tea** | 4              | Herbal tea with celestial essence, calming and purifying.      | Removes poison effects, restores 2 HP.                   |
+| **Arcane Elixir**      | 15                   | Sparkling potion with luminous particles, enhances magic.      | Restores a small spell slot or equivalent magical energy. |
+| **Adventurer's Pack (Combo)** | 12           | Any snack and drink combo.                                     | Save up to 20% off individual item prices.               |
+
+### Special Notes
+
+- All items are suitable for various races and species, prepared to the highest hygiene standards.
+- Check ingredients with our snack bar attendant to avoid allergies.
+- Prices and availability are subject to change without notice.
+
+This menu is designed to enhance the gameplay by providing practical benefits through in-game consumables, adding depth to the travel experience in your RPG campaign.
