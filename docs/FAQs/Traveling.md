@@ -146,3 +146,31 @@ Trains departing from Doranth Central offer various classes of service to cater 
 - **Cancellation Policy:** Full refund available up to 24 hours before departure; 50% refund within 24 hours. No refunds on the day of travel.
 
 Travelers are encouraged to book early to secure their preferred type of accommodation. For more details and to make reservations, visit Doranth Central’s booking office or contact our official travel helpline.
+
+---
+
+## Rest Benefits by Travel Class at Doranth Central Train Station
+
+Traveling by train from Doranth Central offers not only a means of transportation but also a unique opportunity for adventurers to rest and recuperate. Different classes of travel provide varying levels of comfort and restorative benefits, crucial for adventurers needing to regain strength and abilities during their journeys.
+
+### Coach Class
+- **Rest Benefit:** Counts as a **Short Rest**
+- **Explanation:**
+  - Traveling in Coach class allows passengers to take a short rest. While the seating is comfortable and the journey smooth, the general environment of the coach car, with its standard spacing and the presence of other passengers, is conducive to shorter periods of downtime. This rest period is sufficient to regain some hit points and abilities as per the short rest mechanics of many RPGs but may not allow for the full recovery that comes from a long rest.
+
+### First Class
+- **Rest Benefit:** Counts as a **Free Long Rest**
+- **Explanation:**
+  - First Class accommodation provides a more conducive environment for a long rest. The spacious and reclining seats, quieter atmosphere, and fewer passengers create a more private and restful experience. The added amenities such as meal services and personal attendants ensure that adventurers can fully relax and recover. This means that travelers in First Class can complete a long rest, allowing them to fully restore their hit points, spells, and abilities, as well as remove the effects of exhaustion and other detriments.
+
+### Private Rooms
+- **Rest Benefit:** Counts as a **Free Long Rest**
+- **Explanation:**
+  - Private Rooms offer the ultimate rest experience on a train. Each room features a bed, en-suite bathroom, and complete privacy, mimicking the conditions of a comfortable night in a stationary inn. The ability to lock the compartment and isolate oneself from the rest of the train is ideal for uninterrupted sleep and recovery. Travelers in Private Rooms receive all the benefits of a long rest, including the full restoration of all capabilities and the removal of negative conditions, just as they would in a secure and comfortable lodging on land.
+
+### Strategic Use of Travel for Game Mechanics
+Adventurers should consider their physical and magical needs when booking train travel. Choosing the right class can be a strategic decision, especially when preparing for or recovering from quests and battles. While Coach offers a quick breather, First Class and Private Rooms are excellent choices for complete rejuvenation.
+
+Booking in advance is recommended, especially for First Class and Private Rooms, to ensure availability and the best recovery conditions during peak travel times or following strenuous adventures.
+
+For detailed prices, amenities, and additional services, adventurers should visit the booking office at Doranth Central.

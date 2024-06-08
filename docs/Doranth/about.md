@@ -1,6 +1,6 @@
 ## The City of Doranth
 
-Doranth is a bustling, medieval city-state known for its vibrant culture and historical significance. Nestled between the Verdant Hills and the Silver River, the city boasts a strategic position that has historically made it a hub for trade, diplomacy, and scholarly pursuits.
+Doranth is a bustling, city-state known for its vibrant culture and historical significance. Nestled between the Verdant Hills and the Silver River, the city boasts a strategic position that has historically made it a hub for trade, diplomacy, and scholarly pursuits.
 
 ### Description of Doranth
 
