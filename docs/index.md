@@ -4,10 +4,6 @@
 
 Welcome, intrepid adventurers, to the realm of Terralon—a land brimming with magic, mystery, and the echoes of ancient civilizations. Here in the continent of Galdor, you will embark on a journey across diverse terrains, from the lush Emerald Valley to the mysterious Mystwood, and beyond to the treacherous waters surrounding the Sapphire Isles.
 
-## Explore the Rich Tapestry of Galdor
-
-In this campaign, you will explore a world where the present is perpetually intertwined with the past. The kingdoms and empires of Galdor have risen upon the foundations of forgotten epochs, and whispers of lost technologies and magic resonate through the ruins scattered across the landscape. As adventurers, you will engage with cultures that are as varied as the geography they inhabit, each with their own customs, conflicts, and secrets.
-
 ### Key Places to Visit
 
 - **Emerald Valley**: Known for its verdant landscapes and fertile plains, it is a place of peace and agriculture, but ancient secrets lie buried beneath its soils.
