@@ -1,43 +1,148 @@
-# Travel Fare and Insurance Rates
+## Doranth Central Train Station
 
-## Currency Conversion
+Doranth Central Train Station, commonly referred to as Doranth Central, is a bustling nexus of activity. As one of the largest and most sophisticated train hubs in the region, it serves as a critical artery for commerce, tourism, and daily commuting.
 
-- **1 Gold (gp)** = **10 Silver (sp)**
-- **1 Silver (sp)** = **10 Copper (cp)**
+### Overview of Doranth Central
 
-## Travel Fare
+#### Architecture
+The station is a grand edifice, combining elements of gothic architecture with modern engineering marvels. Its vast arched roof, constructed of glass and steel, floods the concourses with natural light. Intricate stonework and soaring columns give it an air of grandeur and permanence, while the gleaming tracks and state-of-the-art technology signify its role in modern transportation.
 
-### Boat Fare:
+#### Layout
+Doranth Central features multiple levels and platforms to accommodate the variety of train services:
+- **Main Concourse:** The heart of the station, where tickets are sold and passengers gather before boarding. Large digital boards display arrivals and departures in real-time.
+- **Platforms:** There are over twenty platforms, accessible via escalators and lifts. Each platform is clearly marked with destinations and departure times.
+- **Commercial Area:** Shops, cafes, and restaurants line the perimeter of the main concourse, offering everything from quick snacks to fine dining.
 
-- **Short journey (less than a day)**: 5 sp
-- **Medium journey (1 to 3 days)**: 2 gp
-- **Long journey (more than 3 days)**: 5 gp
+### Services and Amenities
+- **Information Desks:** Staffed by multilingual attendants who provide assistance with schedules, ticket bookings, and general inquiries.
+- **Luggage Services:** Options for checked luggage, lockers for temporary storage, and porters to assist with heavy bags.
+- **Waiting Lounges:** Comfortable seating areas for passengers waiting for their trains. VIP lounges offer more privacy and luxury amenities for first-class travelers.
+- **Security:** The station is equipped with a modern security system, including CCTV and a visible presence of security personnel to ensure passenger safety.
 
-## Insurance Rates (per journey)
+### Train Lines and Destinations
+Trains from Doranth Central cover routes that span the continent:
+- **Local Lines:** Connect Doranth with nearby towns and villages. Frequent departures throughout the day.
+- **Regional Expresses:** Serve major cities within the region, offering faster travel times with fewer stops.
+- **International Bullet Trains:** High-speed services to distant capitals and major cities across borders.
 
-### Dragon's Shield Insurance
+### Ticket Prices
+Prices vary depending on the destination, class of service, and time of booking:
+- **Local Commuter:** Starting from 5 silver coins.
+- **Regional Express:** Ranges from 20 to 100 silver coins, based on travel distance.
+- **International Travel:** From 100 silver coins upwards, with deluxe services costing several gold pieces.
 
-- **Life Insurance**:
-  - **Coverage**: Up to 100 gp in compensation
-  - **Cost**: 1 gp
-- **Personal Belongings Insurance**:
-  - **Coverage**: Up to 25 gp in compensation
-  - **Cost**: 5 sp
+---
 
-### Goblin's Guard Insurance
+## Doranth Central Train Station Timetable
 
-- **Life Insurance**:
-  - **Coverage**: Up to 80 gp in compensation
-  - **Cost**: 8 sp
-- **Personal Belongings Insurance**:
-  - **Coverage**: Up to 20 gp in compensation
-  - **Cost**: 3 sp
+Below is the timetable for departures from Doranth Central to various destinations across the continent. Each entry includes the destination, departure time, estimated arrival time, and the platform from which the train departs. This timetable also indicates the direction of travel based on the platform number. Please note that times are subject to change; travelers should verify times on the day of departure.
 
-### Elven Assurance
+| Departure Time | Arrival Time | Destination        | Platform | Direction      |
+|----------------|--------------|--------------------|----------|----------------|
+| 06:00 AM       | 08:30 AM     | Elmswood           | 1        | Western        |
+| 06:30 AM       | 09:15 AM     | Fort Marlin        | 2        | Western        |
+| 07:00 AM       | 09:00 AM     | Highstone          | 3        | Western        |
+| 07:30 AM       | 10:00 AM     | Silvervale         | 4        | Western        |
+| 08:00 AM       | 10:30 AM     | Thornwick          | 5        | Western        |
+| 08:30 AM       | 11:00 AM     | Briarbridge        | 6        | Southern       |
+| 09:00 AM       | 11:30 AM     | Mistvale           | 7        | Southern       |
+| 09:30 AM       | 12:00 PM     | Greenwater         | 8        | Southern       |
+| 10:00 AM       | 12:30 PM     | Ravenscar          | 9        | Southern       |
+| 10:30 AM       | 01:00 PM     | Windmere           | 10       | Southern       |
+| 11:00 AM       | 01:30 PM     | Fairview           | 11       | Southern       |
+| 11:30 AM       | 02:00 PM     | Black Hollow       | 12       | Eastern        |
+| 12:00 PM       | 02:30 PM     | Whitepine          | 13       | Eastern        |
+| 12:30 PM       | 03:00 PM     | Glimmerforge       | 14       | Eastern        |
+| 01:00 PM       | 03:30 PM     | Redmarsh           | 15       | Eastern        |
+| 01:30 PM       | 04:00 PM     | Oakshade           | 16       | Eastern        |
+| 02:00 PM       | 04:30 PM     | Frostgate          | 17       | Eastern        |
+| 02:30 PM       | 05:00 PM     | Ironhill           | 18       | Eastern        |
+| 03:00 PM       | 05:30 PM     | Crystal Bay        | 19       | Northern/Intl. |
+| 03:30 PM       | 06:00 PM     | Sunbluff           | 20       | Northern/Intl. |
+| 04:00 PM       | 06:30 PM     | Lantern's Rest     | 21       | Northern/Intl. |
+| 04:30 PM       | 07:00 PM     | Stormwatch         | 22       | Northern/Intl. |
+| 05:00 PM       | 07:30 PM     | Kingshaven         | 23       | Northern/Intl. |
+| 05:30 PM       | 08:00 PM     | Fallowfield        | 24       | Northern/Intl. |
 
-- **Life Insurance**:
-  - **Coverage**: Up to 150 gp in compensation
-  - **Cost**: 1.5 gp
-- **Personal Belongings Insurance**:
-  - **Coverage**: Up to 30 gp in compensation
-  - **Cost**: 7 sp
+### Platform Orientation
+
+- **Platforms 1-5:** For departures heading west.
+- **Platforms 6-11:** For departures heading south.
+- **Platforms 12-18:** For departures heading east.
+- **Platforms 19-24:** For departures heading north and to international destinations.
+
+Travelers are advised to arrive at least 30 minutes prior to their departure time to allow sufficient time for boarding. For international routes and special scenic rail tours, please check our special schedules available at the information desks.
+
+## Doranth Central Train Station - International Departures Timetable
+
+Below is the specialized timetable for international departures from Doranth Central. Each entry includes the destination country, departure time, estimated arrival time, and the platform from which the train departs. These services are designed for long-distance travel and often feature amenities tailored for comfort over extended journeys.
+
+| Departure Time | Arrival Time | Destination Country       | Platform | Note               |
+|----------------|--------------|---------------------------|----------|--------------------|
+| 06:45 AM       | 10:15 AM     | Republic of Eldoria       | 20       | Visa required      |
+| 07:15 AM       | 11:00 AM     | Kingdom of Thaloria       | 19       | No visa for 10 days|
+| 08:00 AM       | 01:30 PM     | The Isles of Althas       | 21       | Special permit req.|
+| 09:30 AM       | 02:45 PM     | Principality of Verinon   | 19       | Visa on arrival    |
+| 10:00 AM       | 04:00 PM     | Federation of Draygon     | 20       | Visa required      |
+| 11:45 AM       | 05:00 PM     | Dominion of Xanar         | 22       | No visa for 15 days|
+| 12:30 PM       | 07:15 PM     | Archduchy of Esterfeld    | 23       | Visa required      |
+| 01:00 PM       | 06:00 PM     | Sultanate of Mirath       | 24       | Visa on arrival    |
+| 02:30 PM       | 07:30 PM     | Free Cities of Jovan      | 22       | Special permit req.|
+| 03:15 PM       | 08:20 PM     | Empire of Tarkhan         | 21       | Visa required      |
+| 04:00 PM       | 09:30 PM     | Commonwealth of Vespia    | 23       | No visa for 10 days|
+| 05:00 PM       | 11:30 PM     | Grand Duchy of Lorendale  | 20       | Visa on arrival    |
+
+### Special Notes for International Travelers
+
+- **Visa Requirements:** Some destinations require visas to be arranged prior to departure. Please check the latest visa requirements and travel advisories issued by the Doranth Foreign Affairs Office.
+- **Special Permits:** Certain destinations may require special permits due to political or environmental considerations.
+- **Check-In:** For international routes, please arrive at least 1 hour prior to departure for immigration and security screening.
+
+Travelers are advised to verify any additional requirements for international travel, such as vaccinations or specific documentation, well in advance of their journey.
+
+
+## Train Travel Accommodations at Doranth Central Train Station
+
+Trains departing from Doranth Central offer various classes of service to cater to different preferences and budgets. Below is a breakdown of the primary types of accommodations, including their prices and specific amenities.
+
+### 1. Coach Class
+- **Price:** Starts at 15 silver coins for regional trips, 50 silver coins for international.
+- **Amenities:**
+  - Comfortable seating with ample legroom.
+  - Access to food and beverage carts serving snacks and drinks.
+  - Overhead storage compartments.
+  - Restrooms available in each coach car.
+  - Free Wi-Fi service.
+
+### 2. First Class
+- **Price:** Starts at 50 silver coins for regional trips, 150 silver coins for international.
+- **Amenities:**
+  - Wider, reclining seats with additional legroom.
+  - Complimentary meal service with a choice of dishes.
+  - Free beverages, including wine and spirits.
+  - Exclusive access to first-class lounges at the station.
+  - Personalized service from dedicated attendants.
+  - Enhanced privacy with fewer seats per compartment.
+
+### 3. Private Rooms
+- **Price:** Starts at 100 silver coins for regional trips, 300 silver coins for international.
+- **Amenities:**
+  - Private, lockable compartments with beds for overnight journeys.
+  - En-suite bathroom facilities.
+  - Complimentary gourmet meal service delivered to the room.
+  - In-room entertainment options, including streaming services.
+  - Priority boarding and disembarkation.
+  - Access to exclusive lounges at the station with full-service bars and additional amenities.
+
+### Additional Services
+- **Premium Add-Ons:**
+  - Meal upgrades: Available for an additional 10 - 30 silver coins.
+  - Private guided tours at stopover locations: Prices vary by destination.
+  - Spa services on select routes: Starting from 20 silver coins.
+  - Pet accommodation: 15 silver coins.
+
+### Booking and Cancellations
+- **Advance Booking:** Recommended for first class and private rooms, especially during peak travel seasons.
+- **Cancellation Policy:** Full refund available up to 24 hours before departure; 50% refund within 24 hours. No refunds on the day of travel.
+
+Travelers are encouraged to book early to secure their preferred type of accommodation. For more details and to make reservations, visit Doranth Central’s booking office or contact our official travel helpline.
