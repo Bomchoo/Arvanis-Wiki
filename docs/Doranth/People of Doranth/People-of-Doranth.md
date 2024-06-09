@@ -1,4 +1,4 @@
-# People of the World
+# People of the Doranth
 
 ## Welcome to Doranth, it's nice to meet you!
 
