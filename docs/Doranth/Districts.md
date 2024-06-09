@@ -6,7 +6,7 @@ Doranth is a city of diverse districts, each catering to unique facets of life a
 
 **Description:** The center for magical education and arcane research, where libraries and academies abound.
 
-**Key Features:**
+### Key Features:
  - **The Grand Library of Doranth:** A treasure trove of magical texts and ancient tomes.
  - **Mystic's Alley:** A marketplace for rare artifacts and mystical supplies.
  - **The Circle of Elements:** An arena for public displays of magical prowess.
@@ -15,7 +15,7 @@ Doranth is a city of diverse districts, each catering to unique facets of life a
 
 **Description:** The heart of Doranth's weapon and armor crafting, echoing with the sounds of metalwork.
 
-**Key Features:**
+### Key Features:
 - **Ironhand Row:** Renowned for its skilled smiths and fine craftsmanship.
 - **The Warrior’s Rest:** A popular gathering place for fighters and adventurers.
 - **The Battle Ring:** A testing ground for newly crafted weapons and armors.
@@ -24,7 +24,7 @@ Doranth is a city of diverse districts, each catering to unique facets of life a
 
 **Description:** A district filled with apothecaries and potion shops, where alchemists create wondrous concoctions.
 
-**Key Features:**
+### Key Features:
 - **Brewmaster’s Boulevard:** A hub for potion enthusiasts and herbalists.
 - **The Scented Cauldron:** Offers bespoke potions and custom herbal solutions.
 - **Garden of Healing:** Cultivates medicinal plants and herbs for healing.
@@ -33,7 +33,7 @@ Doranth is a city of diverse districts, each catering to unique facets of life a
 
 **Description:** A bustling marketplace that caters to all kinds of needs, from daily goods to exotic items.
 
-**Key Features:**
+### Key Features:
 - **Traders’ Plaza:** The central location for commerce and trade.
 - **The Gadget Lane:** Features innovative gadgets and unusual trinkets.
 - **The Provisioner’s Guild:** Provides essential supplies for all adventurers.
@@ -41,7 +41,8 @@ Doranth is a city of diverse districts, each catering to unique facets of life a
 ## 5. The Shadow Enclave
 
 **Description:** A hidden quarter where the darker aspects of magic are practiced, away from the public eye.
-**Key Features:**
+
+### Key Features:
 - **The Necropolis Gate:** The foreboding entrance to the district.
 - **Cursed Alley:** A clandestine market for curses and hexes.
 - **The Gloomwell Academy:** A place of learning for those interested in the darker arts.
