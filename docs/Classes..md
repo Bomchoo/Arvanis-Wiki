@@ -1,6 +1,6 @@
-# Arvanis Player Classes
+# Available Player Classes
 
-Dungeons & Dragons and in turn Arvanis offers a variety of classes, each with unique features and playstyles. Here's an overview of each class along with reasons why players might choose them:
+Dungeons & Dragons and our campaign offer a variety of classes, each with unique features and playstyles. Here's an overview of each class along with reasons why players might choose them:
 
 ## 1. Barbarian
 - **Description**: Barbarians are fierce warriors known for their incredible strength and their ability to enter a rage during battle.
