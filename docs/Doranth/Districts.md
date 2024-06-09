@@ -2,7 +2,7 @@
 
 Doranth is a city of diverse districts, each catering to unique facets of life and magic. Here are the five main districts that define the landscape and culture of Doranth:
 
-## The Arcanum Quarter
+## 1. The Arcanum Quarter
 
 **Description:** Welcome to the Arcanum Quarter, the intellectual and magical heart of Doranth. This district is renowned for its prestigious academies, extensive libraries, and vibrant markets that cater to the arcane arts. As the center of magical learning and research, the Arcanum Quarter attracts scholars, practitioners of magic, and curious visitors from all over the world.
 
