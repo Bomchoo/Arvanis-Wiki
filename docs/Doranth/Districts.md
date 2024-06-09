@@ -7,9 +7,9 @@ Doranth is a city of diverse districts, each catering to unique facets of life a
 **Description:** The center for magical education and arcane research, where libraries and academies abound.
 
 **Key Features:**
-- **The Grand Library of Doranth:** A treasure trove of magical texts and ancient tomes.
-- **Mystic's Alley:** A marketplace for rare artifacts and mystical supplies.
-- **The Circle of Elements:** An arena for public displays of magical prowess.
+ - **The Grand Library of Doranth:** A treasure trove of magical texts and ancient tomes.
+ - **Mystic's Alley:** A marketplace for rare artifacts and mystical supplies.
+ - **The Circle of Elements:** An arena for public displays of magical prowess.
 
 ## 2. The Forge District
 
