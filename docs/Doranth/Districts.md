@@ -94,7 +94,7 @@ Doranth is a city of diverse districts, each catering to unique facets of life a
 **Description:** Welcome to Alchemy Lane, Doranth's vibrant hub of alchemical innovation and herbal mastery. This district is a bustling mosaic of apothecaries, potion shops, and botanical gardens where alchemists blend ancient wisdom with experimental techniques to craft powerful concoctions. Alchemy Lane is a haven for healers, scholars, and anyone intrigued by the transformative powers of alchemy.
 
 ### Key Locations
-**
+
 - **Brewmaster’s Boulevard**
    - The main thoroughfare of Alchemy Lane, lined with shops and stalls offering a dizzying variety of potions, elixirs, and other alchemical solutions. Each vendor competes to showcase the most effective or exotic blends, drawing a crowd of curious onlookers and serious buyers.
 
