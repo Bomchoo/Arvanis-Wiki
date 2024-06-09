@@ -2,14 +2,58 @@
 
 Doranth is a city of diverse districts, each catering to unique facets of life and magic. Here are the five main districts that define the landscape and culture of Doranth:
 
-## 1. The Arcanum Quarter
+## The Arcanum Quarter
 
 **Description:** The center for magical education and arcane research, where libraries and academies abound.
 
 ### Key Features:
- - **The Grand Library of Doranth:** A treasure trove of magical texts and ancient tomes.
- - **Mystic's Alley:** A marketplace for rare artifacts and mystical supplies.
- - **The Circle of Elements:** An arena for public displays of magical prowess.
+ - **The Grand Library of Doranth:** 
+    - A treasure trove of magical texts and ancient tomes.
+ - **Mystic's Alley:** 
+    - A marketplace for rare artifacts and mystical supplies.
+ - **The Circle of Elements:** 
+    - An arena for public displays of magical prowess.
+
+### Key Locations
+   
+  - **The Grand Library of Doranth**
+    - The Grand Library is the crown jewel of the Quarter. It houses thousands of volumes, including rare and ancient manuscripts that cover every aspect of magical lore Scholars and mages from across the lands come here to study and uncover the secrets held within these sacred walls.
+   
+  - **Mystic's Alley**
+    - This narrow and winding alley is lined with shops and stalls selling magical artifacts, spell components, and mystical curios. From glowing crystals to ancient relics, Mystic's Alley offers a plethora of exotic items that cater to the needs of practicing mages and collectors alike.
+   
+  - **The Circle of Elements**
+    - An open-air arena where mages test their skills and control of the elemental forces. Frequent demonstrations and duels make The Circle of Elements a popular spot for entertainment and learning, attracting large crowds eager to see magic in action.
+
+### Notable People
+
+  - **Archmage Elion Voss**
+    - Elion Voss is the current head of the Arcanum Council and a respected authority in arcane research. His expertise lies in dimensional magic, and he is often sought out by those requiring knowledge or consultation regarding portals and inter-dimensional travel.
+
+  - **Mirabel the Mystic**
+    - Owner of the famed "Mirabel’s Mystical Emporium," she is known far and wide for her extensive collection of magical goods and her ability to procure the rarest of magical items. Her shop is a must-visit for adventurers seeking unique magical aids.
+
+  - **Professor Lyrin Thal**
+    - A prominent instructor at the Doranth Magical Academy, Professor Thal specializes in magical defenses and warding spells. He offers public lectures and private tutoring, contributing significantly to the safety and education of the city’s residents.
+### Educational Institutions
+
+  - **Doranth Magical Academy**
+     - This prestigious institution offers a comprehensive curriculum covering various schools of magic. With a focus on both practical and theoretical learning, the academy is dedicated to training the next generation of mages and scholars.
+
+### Shopping and Services
+
+  - **Arcane Delights**
+     - A popular shop known for its wide selection of enchanted sweets and beverages that offer minor magical enhancements or delightful sensory experiences.
+
+  - **The Scroll Nook**
+     - A small, cozy shop that specializes in the sale and trade of magical scrolls, ranging from simple cantrips to high-level spells.
+
+  - **Mirabel’s Mystical Emporium**
+    - Owned by Mirabel the Mystic, this shop is renowned for its rare and exotic magical items, ranging from arcane artifacts to custom-made magical tools tailored to the specific needs of the buyer.
+
+*The Arcanum Quarter is not just a place of business and study; it is a vibrant community where the wonders of magic are part of everyday life. With its bustling markets, esteemed academies, and influential figures, the Quarter remains a pivotal area in Doranth, pulsing with the energy of the arcane.*
+
+---
 
 ## 2. The Forge District
 
@@ -57,48 +101,6 @@ Each district in Doranth not only adds to the city’s character but also catize
 # The Arcanum Quarter
 
 Welcome to the Arcanum Quarter, the intellectual and magical heart of Doranth. This district is renowned for its prestigious academies, extensive libraries, and vibrant markets that cater to the arcane arts. As the center of magical learning and research, the Arcanum Quarter attracts scholars, practitioners of magic, and curious visitors from all over the world.
-
-## Key Locations
-
-**The Grand Library of Doranth**
-- The Grand Library is the crown jewel of the Quarter. It houses thousands of volumes, including rare and ancient manuscripts that cover every aspect of magical lore. Scholars and mages from across the lands come here to study and uncover the secrets held within these sacred walls.
-
-**Mystic's Alley**
-- This narrow and winding alley is lined with shops and stalls selling magical artifacts, spell components, and mystical curios. From glowing crystals to ancient relics, Mystic's Alley offers a plethora of exotic items that cater to the needs of practicing mages and collectors alike.
-
-**The Circle of Elements**
-- An open-air arena where mages test their skills and control of the elemental forces. Frequent demonstrations and duels make The Circle of Elements a popular spot for entertainment and learning, attracting large crowds eager to see magic in action.
-
-## Notable People
-
-**Archmage Elion Voss**
-- Elion Voss is the current head of the Arcanum Council and a respected authority in arcane research. His expertise lies in dimensional magic, and he is often sought out by those requiring knowledge or consultation regarding portals and inter-dimensional travel.
-
-**Mirabel the Mystic**
-- Owner of the famed "Mirabel’s Mystical Emporium," she is known far and wide for her extensive collection of magical goods and her ability to procure the rarest of magical items. Her shop is a must-visit for adventurers seeking unique magical aids.
-
-**Professor Lyrin Thal**
-- A prominent instructor at the Doranth Magical Academy, Professor Thal specializes in magical defenses and warding spells. He offers public lectures and private tutoring, contributing significantly to the safety and education of the city’s residents.
-
-## Educational Institutions
-
-**Doranth Magical Academy**
-- This prestigious institution offers a comprehensive curriculum covering various schools of magic. With a focus on both practical and theoretical learning, the academy is dedicated to training the next generation of mages and scholars.
-
-## Shopping and Services
-
-**Arcane Delights**
-- A popular shop known for its wide selection of enchanted sweets and beverages that offer minor magical enhancements or delightful sensory experiences.
-
-**The Scroll Nook**
-- A small, cozy shop that specializes in the sale and trade of magical scrolls, ranging from simple cantrips to high-level spells.
-
-**Mirabel’s Mystical Emporium**
-- Owned by Mirabel the Mystic, this shop is renowned for its rare and exotic magical items, ranging from arcane artifacts to custom-made magical tools tailored to the specific needs of the buyer.
-
-*The Arcanum Quarter is not just a place of business and study; it is a vibrant community where the wonders of magic are part of everyday life. With its bustling markets, esteemed academies, and influential figures, the Quarter remains a pivotal area in Doranth, pulsing with the energy of the arcane.*
-
----
 
 # The Forge District
 
