@@ -4,7 +4,7 @@
 
 ![Ivor Hettleweed](assets/ivor-hettleweed.png)
 
-**Name:** Ivor Hettleweed
+**Name:** <span class="green-text">Ivor Hettleweed</span>
 
 ## Appearance:
 - **Height and Build:** Thin and slightly stooped, standing at about 5'8".
