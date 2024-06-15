@@ -10,8 +10,11 @@ As you embark on your journey through the vibrant city of Dorath and the surroun
 #### Doranth hosts a variety of key figures whose expertise and establishments significantly shape the city's cultural and economic landscape. 
 
 ![Archmage Elion Voss](assets/archmage.png)
+
 - **Archmage Elion Voss** as the head of the Arcanum Council, plays a pivotal role in guiding the city’s magical policies, particularly in the realm of dimensional travel and portal research. On the commercial side,
+
 - **Mirabel the Mystic's** establishment, "Mirabel’s Mystical Emporium," is a cornerstone for adventurers and locals alike, providing rare and unique magical items that cannot be found elsewhere. Additionally, 
+
 - **Professor Lyrin Thal** at the Doranth Magical Academy is crucial for the education and defense of the city, teaching the art of magical defenses and warding spells to the next generation of mages.
 
 ### The Crafting and Commerce of Doranth
@@ -19,6 +22,7 @@ As you embark on your journey through the vibrant city of Dorath and the surroun
 #### In the bustling Forge District, 
 
 ![Master Blacksmith Korin ForgeFire](assets/Master_Blacksmith_Korin_Forgefire.png)
+
 - **Master Blacksmith Korin Forgefire** is renowned for his exquisite craftsmanship in weapons made from rare metals and magical alloys. His weapons are sought after across the land for their superior quality and enchantments. 
 
 - In the same district, **Ava Steelhand** runs the Warrior’s Rest, a hub for warriors seeking expert advice on weaponry and a good night's rest. 
@@ -30,6 +34,7 @@ As you embark on your journey through the vibrant city of Dorath and the surroun
 #### The darker aspects of Doranth are just as influential, with figures like 
 
 ![Master Thief Lynx](assets/Master_Thief_Lynx.png) 
+
 - **Master Thief Lynx** controlling much of the city's clandestine operations. Her network within the Enclave is vast, involving espionage and black market dealings. 
 - In the shadows of academia, **The Keeper**, headmaster of The Gloomwell Academy, educates in the dark arts, wielding significant power and instilling both respect and fear. 
 - Meanwhile, **Silas Darkweb** operates the Obsidian Market, a less-visible network dealing in powerful magical artifacts that attract a mixture of scholars and sorcerers, allies and adversaries alike.
