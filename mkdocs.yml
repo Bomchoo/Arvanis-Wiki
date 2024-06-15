@@ -42,4 +42,5 @@ markdown_extensions:
   - md_in_html
 plugins:
   - glightbox
-
+extra_css:
+    - css/extra.css
