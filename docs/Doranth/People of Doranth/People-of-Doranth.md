@@ -11,7 +11,7 @@ As you embark on your journey through the vibrant city of Dorath and the surroun
 
 ![Archmage Elion Voss](assets/archmage.png)
 
-- **Archmage Elion Voss** as the head of the Arcanum Council, plays a pivotal role in guiding the city’s magical policies, particularly in the realm of dimensional travel and portal research. On the commercial side,
+- **Archmage Elion Voss** as the head of the Arcanum Council, plays a pivotal role in guiding the city’s magical policies, particularly in the realm of dimensional travel and portal research. 
 
 - **Mirabel the Mystic's** establishment, "Mirabel’s Mystical Emporium," is a cornerstone for adventurers and locals alike, providing rare and unique magical items that cannot be found elsewhere. Additionally, 
 
@@ -36,6 +36,8 @@ As you embark on your journey through the vibrant city of Dorath and the surroun
 ![Master Thief Lynx](assets/Master_Thief_Lynx.png) 
 
 - **Master Thief Lynx** controlling much of the city's clandestine operations. Her network within the Enclave is vast, involving espionage and black market dealings. 
+
 - In the shadows of academia, **The Keeper**, headmaster of The Gloomwell Academy, educates in the dark arts, wielding significant power and instilling both respect and fear. 
+
 - Meanwhile, **Silas Darkweb** operates the Obsidian Market, a less-visible network dealing in powerful magical artifacts that attract a mixture of scholars and sorcerers, allies and adversaries alike.
 
