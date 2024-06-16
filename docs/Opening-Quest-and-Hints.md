@@ -13,15 +13,15 @@
 
 **Ivor:**<span class="spoiler-text"> ***Ah! You there! Adventurers, by the looks of it! Just the sort of folk I need. Oh, where are my manners? I'm Ivor, Ivor Hettleweed, scholar, historian, and, well, some say a bit of a mad scientist, but don't you mind that.***</span>
 
-**Player Character (PC):** <span class="spoiler-text"> What do you need from us, Ivor?</span>
+**Player Character (PC):** What do you need from us, Ivor?
 
 **Ivor:**<span class="spoiler-text">  ***Ah, straight to the point, excellent, excellent! You see, I've made a rather remarkable discovery, something that could change our understanding of history itself! But I'm getting ahead of myself. I’ve unearthed what I believe to be an artifact of the ancient Juralen civilization—yes, that's right, the Juralen! Thought to be mere myths, phantoms of folklore!***</span>
 
-**PC:**<span class="spoiler-text"> Why come to us with this?</span>
+**PC:** Why come to us with this?
 
 **Ivor:**<span class="spoiler-text"> ***Oh, my dear, because such treasures are not just academic curiosities—they're magnets for trouble. And while my mind is sharp as a tack, my old bones aren't quite suited for the... shall we say, 'adventurous' complications that tend to follow such findings. That’s where you come in.***</span>
 
-**PC:**<span class="spoiler-text"> What exactly do you want us to do?</span>
+**PC:** What exactly do you want us to do?
 
 **Ivor:**<span class="spoiler-text"> ***Simple, but not easy! I need stout hearts and keen eyes to help protect this artifact. There are others who seek it, but for less scholarly pursuits. I must study it further, understand its secrets, and for that, I need safety, stability—a bit of muscle, perhaps some magic. And of course, I'm willing to pay for your services. What say you? Will you help an old man make the discovery of a lifetime?***</span>
 
