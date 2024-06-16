@@ -6,10 +6,9 @@
     
     The following content contains spoilers. Please proceed with caution if you have not yet experienced the subject matter.
 
-<span class="spoiler-toggle">Spoiler Warning</span>
-<div class="hidden">
+
 As you navigate through the crowded market square, your attention is drawn to an elderly man waving his hands frantically. He’s a peculiar sight amidst the throngs of shoppers and traders—thin, slightly stooped, with a shock of white hair and spectacles perched precariously on his nose. He spots you and hurries over, almost tripping over his own robe in his excitement.
-</div>
+
 
 **Ivor:** Ah! You there! Adventurers, by the looks of it! Just the sort of folk I need. Oh, where are my manners? I'm Ivor, Ivor Hettleweed, scholar, historian, and, well, some say a bit of a mad scientist, but don't you mind that.
 
