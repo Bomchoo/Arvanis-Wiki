@@ -74,6 +74,8 @@ Dungeons & Dragons and our campaign offer a variety of classes, each with unique
   - **Extensive Spellcasting**: Perfect for players who enjoy having a wide array of spells and magical solutions at their disposal.
   - **Intellectual Role-Playing**: Appeals to those who like the idea of playing a character focused on knowledge and learning.
 
+---
+
 # Player Classes Available Upon Discussion
 
 !!! info "Available Upon Discussion"
