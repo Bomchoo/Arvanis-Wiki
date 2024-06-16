@@ -105,8 +105,8 @@ Dungeons & Dragons and our campaign offer a variety of classes, each with unique
 
 !!! info "Available Upon Discussion"
 
-    I am totally okay with choosing either one of these classes, I just need to discuss the finer details
-    of the character with you, including background, lore and more. Please speak to me with any questions or concerns you may have.
+    **I am totally okay with choosing either one of these classes, I just need to discuss the finer details
+    of the character with you, including background, lore and more. Please speak to me with any questions or concerns you may have.**
 
 ### 13. Artificer
 - **Description**: Artificers are masters of magical invention, crafting magical items and mechanized gadgets to aid them in various situations.
