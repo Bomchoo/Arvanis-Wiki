@@ -17,6 +17,6 @@
   
 .spoiler-toggle {
     cursor: pointer;
-    color: blue;
+    color: rgb(185, 185, 185);
     text-decoration: underline;
 }
