@@ -4,10 +4,11 @@
 
 !!! warning "Spoiler Alert"
     
-    <span class="yellow-text">
+    <span class="spoiler-text">
     **The following content contains spoilers. Please proceed with caution if you have not yet experienced the subject matter, however reading this isn't detrimental to the story. Proceed at your own discretion.**
     </span>
 
+<span class="spolier-text">
 As you navigate through the crowded market square, your attention is drawn to an elderly man waving his hands frantically. He’s a peculiar sight amidst the throngs of shoppers and traders—thin, slightly stooped, with a shock of white hair and spectacles perched precariously on his nose. He spots you and hurries over, almost tripping over his own robe in his excitement.
 
 
@@ -24,6 +25,7 @@ As you navigate through the crowded market square, your attention is drawn to an
 **PC:** What exactly do you want us to do?
 
 **Ivor:** Simple, but not easy! I need stout hearts and keen eyes to help protect this artifact. There are others who seek it, but for less scholarly pursuits. I must study it further, understand its secrets, and for that, I need safety, stability—a bit of muscle, perhaps some magic. And of course, I'm willing to pay for your services. What say you? Will you help an old man make the discovery of a lifetime?
+</span>
 
 ---
 
