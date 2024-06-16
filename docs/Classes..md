@@ -76,6 +76,11 @@ Dungeons & Dragons and our campaign offer a variety of classes, each with unique
 
 # Player Classes Available Upon Discussion
 
+!!! info "Available Upon Discussion"
+
+    I am totally okay with choosing either one of these classes, I just need to discuss the finer details
+    of the character with you, including background, lore and more. Please speak to me with any questions or concerns you may have.
+
 ## 13. Artificer
 - **Description**: Artificers are masters of magical invention, crafting magical items and mechanized gadgets to aid them in various situations.
 - **Reasons to Play**:
@@ -91,3 +96,10 @@ Dungeons & Dragons and our campaign offer a variety of classes, each with unique
   - **Unique Combat Mechanics**: Offers unique combat abilities that involve self-harm for greater power, appealing to those looking for a high-risk, high-reward gameplay style.
 - **Special Consideration**:
   - **Demonstration of Knowledge**: Players choosing this class must clearly understand and explain the complex mechanics involving blood magic and self-sacrifice, ensuring they can handle the intricate and potentially risky features of the class.
+
+
+# Homebrew Classes - Custom Content
+
+!!! warning "Hard Sell"
+
+    While I'm not 100% against it. You must be able to sell it to me, and it must fit into the lore, and you need to be able to tell me how. I will also need to read it and approve it. I will try to include as much as possible, but I won't be changing the story to fit homebrew content outside of the orignal plot.

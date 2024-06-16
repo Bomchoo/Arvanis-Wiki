@@ -25,6 +25,10 @@ As you navigate through the crowded market square, your attention is drawn to an
 
 ---
 
+!!! tip "Finding Things To Do"
+
+      There are plenty of ways to discover things to do in the world! Below are some ideas you can use to help move the story along in various ways! Sometimes, the path less traveled or leaving no stone unturned can be fun!
+
 ## Discovering Events in Doranth
 
 Doranth is a hub of activity where numerous events, both big and small, unfold daily. Whether in the lively town center or the quieter outskirts, opportunities for adventure are plentiful. Knowing who to talk to and where to listen is key to uncovering these stories.
