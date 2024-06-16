@@ -97,6 +97,7 @@ Dungeons & Dragons and our campaign offer a variety of classes, each with unique
 - **Special Consideration**:
   - **Demonstration of Knowledge**: Players choosing this class must clearly understand and explain the complex mechanics involving blood magic and self-sacrifice, ensuring they can handle the intricate and potentially risky features of the class.
 
+---
 
 # Homebrew Classes - Custom Content
 
