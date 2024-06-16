@@ -19,7 +19,7 @@ theme:
   font:
     text: Quicksand
   language: en
-    icon:
+  icon:
     admonition:
       note: fontawesome/solid/note-sticky
       abstract: fontawesome/solid/book
