@@ -4,7 +4,9 @@
 
 !!! warning "Spoiler Alert"
     
-    <span class="yellow-text">**The following content contains spoilers. Please proceed with caution if you have not yet experienced the subject matter, however reading this isn't detrimental to the story. Proceed at your own discretion.**</span>
+    <span class="yellow-text">
+    **The following content contains spoilers. Please proceed with caution if you have not yet experienced the subject matter, however reading this isn't detrimental to the story. Proceed at your own discretion.**
+    </span>
 
 As you navigate through the crowded market square, your attention is drawn to an elderly man waving his hands frantically. He’s a peculiar sight amidst the throngs of shoppers and traders—thin, slightly stooped, with a shock of white hair and spectacles perched precariously on his nose. He spots you and hurries over, almost tripping over his own robe in his excitement.
 
@@ -27,7 +29,7 @@ As you navigate through the crowded market square, your attention is drawn to an
 
 !!! tip "Finding Things To Do"
 
-      There are plenty of ways to discover things to do in the world! Below are some ideas you can use to help move the story along in various ways! Sometimes, the path less traveled or leaving no stone unturned can be fun!
+      **There are plenty of ways to discover things to do in the world! Below are some ideas you can use to help move the story along in various ways! Sometimes, the path less traveled or leaving no stone unturned can be fun!**
 
 ## Discovering Events in Doranth
 
