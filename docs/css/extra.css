@@ -13,10 +13,10 @@
 
 .hidden {
     display: none;
-  }
+}
   
-  .spoiler-toggle {
+.spoiler-toggle {
     cursor: pointer;
     color: blue;
     text-decoration: underline;
-  }
+}
