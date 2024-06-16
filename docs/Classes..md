@@ -138,4 +138,4 @@ Dungeons & Dragons and our campaign offer a variety of classes, each with unique
 
 !!! warning "Hard Sell"
 
-    While I'm not 100% against it. You must be able to sell it to me, and it must fit into the lore, and you need to be able to tell me how. I will also need to read it and approve it. I will try to include as much as possible, but I won't be changing the story to fit homebrew content outside of the orignal plot.
+    **While I'm not 100% against it. You must be able to sell it to me, and it must fit into the lore, and you need to be able to tell me how. I will also need to read it and approve it. I will try to include as much as possible, but I won't be changing the story to fit homebrew content outside of the orignal plot.**
