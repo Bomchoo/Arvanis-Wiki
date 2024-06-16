@@ -10,3 +10,13 @@
 .green-text {
     color: green;
 }
+
+.hidden {
+    display: none;
+  }
+  
+  .spoiler-toggle {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+  }
