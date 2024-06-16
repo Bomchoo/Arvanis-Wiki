@@ -76,14 +76,14 @@ Dungeons & Dragons and our campaign offer a variety of classes, each with unique
 
 ---
 
-# Player Classes Available Upon Discussion
+## Player Classes Available Upon Discussion
 
 !!! info "Available Upon Discussion"
 
     I am totally okay with choosing either one of these classes, I just need to discuss the finer details
     of the character with you, including background, lore and more. Please speak to me with any questions or concerns you may have.
 
-## 13. Artificer
+### 13. Artificer
 - **Description**: Artificers are masters of magical invention, crafting magical items and mechanized gadgets to aid them in various situations.
 - **Reasons to Play**:
   - **Inventive Creativity**: Ideal for players who enjoy problem-solving with gadgets and custom magic items.
@@ -91,7 +91,7 @@ Dungeons & Dragons and our campaign offer a variety of classes, each with unique
 - **Special Consideration**:
   - **Demonstration of Knowledge**: Players must demonstrate a sufficient understanding of the class mechanics to play this class, focusing on the creation and use of magical devices and inventions.
 
-## 14. Blood Hunter
+### 14. Blood Hunter
 - **Description**: Blood Hunters are grim warriors who use forbidden arcane techniques powered by their own lifeblood to combat monstrous threats.
 - **Reasons to Play**:
   - **Dark, Gritty Role-Playing**: Suitable for players drawn to a darker, more self-sacrificial character archetype.
@@ -101,7 +101,7 @@ Dungeons & Dragons and our campaign offer a variety of classes, each with unique
 
 ---
 
-# Homebrew Classes - Custom Content
+## Homebrew Classes - Custom Content
 
 !!! warning "Hard Sell"
 
