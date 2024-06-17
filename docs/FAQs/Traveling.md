@@ -2,7 +2,9 @@
 
 ## Doranth Central Train Station
 
-Doranth Central Train Station, commonly referred to as Doranth Central, is a bustling nexus of activity. As one of the largest and most sophisticated train hubs in the region, it serves as a critical artery for commerce, tourism, and daily commuting.
+!!! question "Did you know?"
+      
+      Doranth Central Train Station, commonly referred to as Doranth Central, is a bustling nexus of activity. As one of the largest and most sophisticated train hubs in the region, it serves as a critical artery for commerce, tourism, and daily commuting.
 
 ### Overview of Doranth Central
 

@@ -2,7 +2,9 @@
 
 ## Welcome to Doranth, it's nice to meet you!
 
-As you embark on your journey through the vibrant city of Dorath and the surrounding lands, prepare to meet a diverse array of fascinating individuals, each with their own unique stories and roles. From brilliant mages and cunning merchants to legendary craftsmen and mysterious figures lurking in the shadows, the people you encounter will enrich your adventures with their wisdom, services, and sometimes intrigue. Engage with them, learn their stories, and discover how they can help you navigate and influence the complex tapestry of relationships and power dynamics in this richly detailed world.
+!!! success 
+
+    As you embark on your journey through the vibrant city of Dorath and the surrounding lands, prepare to meet a diverse array of fascinating individuals, each with their own unique stories and roles. From brilliant mages and cunning merchants to legendary craftsmen and mysterious figures lurking in the shadows, the people you encounter will enrich your adventures with their wisdom, services, and sometimes intrigue. Engage with them, learn their stories, and discover how they can help you navigate and influence the complex tapestry of relationships and power dynamics in this richly detailed world.
 
 
 ### Notable People and Institutions in Doranth

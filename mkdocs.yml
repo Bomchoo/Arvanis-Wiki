@@ -14,12 +14,13 @@ theme:
     - navigation.footer
   palette:
     scheme: slate
-    primary: amber
-    accent: orange
+    primary: custom
+    accent: custom
   font:
     text: Lato
   language: en
   icon:
+    logo: simple/dungeonsanddragons
     admonition:
       note: fontawesome/solid/note-sticky
       abstract: fontawesome/solid/book
