@@ -17,7 +17,7 @@ theme:
     primary: amber
     accent: orange
   font:
-    text: MedievalSharp
+    text: Lato
   language: en
   icon:
     admonition:
