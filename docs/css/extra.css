@@ -4,7 +4,7 @@
 }
 
 .yellow-text {
-    color: rgb(190, 190, 4);
+    color: goldenrod;
 }
 
 .green-text {
@@ -16,6 +16,6 @@
 }
   
 .spoiler-text {
-    color: goldenrod;
+    color: rgb(47, 134, 192);
     text-decoration: underline;
 }
