@@ -2,8 +2,6 @@
 
 ## Welcome to the World of Terralon
 
-![Flag of Terrralon](assets/terralon-flag.png)
-
 Welcome, intrepid adventurers, to the realm of Terralon—a land brimming with magic, mystery, and the echoes of ancient civilizations. Here in the continent of Galdor, you will embark on a journey across diverse terrains, from the lush Emerald Valley to the mysterious Mystwood, and beyond to the treacherous waters surrounding the Sapphire Isles.
 
 ### Key Places to Visit

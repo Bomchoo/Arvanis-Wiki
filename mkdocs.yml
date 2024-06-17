@@ -14,10 +14,10 @@ theme:
     - navigation.footer
   palette:
     scheme: slate
-    primary: purple
-    accent: light blue
+    primary: amber
+    accent: orange
   font:
-    text: Quicksand
+    text: MedievalSharp
   language: en
   icon:
     admonition:
