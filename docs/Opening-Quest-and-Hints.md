@@ -4,7 +4,7 @@
 
 !!! warning "Spoiler Alert"
     
-    <span class="spoiler-text">
+    <span class="yellow-text">
     **The following content contains spoilers. Please proceed with caution if you have not yet experienced the subject matter, however reading this isn't detrimental to the story. Proceed at your own discretion.**
     </span>
 
