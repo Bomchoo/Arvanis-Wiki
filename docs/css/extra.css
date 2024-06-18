@@ -24,7 +24,7 @@
 body {
     background-image: url('assets/background.jpg');
     background-size: cover; /* Ensure the image covers the entire background */
-    background-position: center; /* Center the image */
+    background-position: center bottom; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
 }
 

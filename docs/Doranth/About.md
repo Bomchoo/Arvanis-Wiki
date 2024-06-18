@@ -7,11 +7,12 @@
 
 ### Description of Doranth
 
-The city's architecture is a tapestry of its rich history and cultural influences. The central district, often referred to as the Heart of Doranth, features cobblestone streets lined with colorful market stalls and grand stone buildings. Towering over the central square is the Great Bell Tower, which rings every hour and can be heard throughout the city.
+!!! quote
+    The city's architecture is a tapestry of its rich history and cultural influences. The central district, often referred to as the Heart of Doranth, features cobblestone streets lined with colorful market stalls and grand stone buildings. Towering over the central square is the Great Bell Tower, which rings every hour and can be heard throughout the city.
 
-The walls of Doranth, built from the pale grey stone of the nearby quarries, stand tall and are well-maintained, evidence of the city's wealth and ongoing prosperity. The gates are heavily guarded but open, welcoming traders and travelers from all across the land.
+    The walls of Doranth, built from the pale grey stone of the nearby quarries, stand tall and are well-maintained, evidence of the city's wealth and ongoing prosperity. The gates are heavily guarded but open, welcoming traders and travelers from all across the land.
 
-Beyond the marketplaces, residential areas spread out in a somewhat chaotic manner, ranging from the opulent villas of the wealthy near the city's inner walls to the more modest wooden homes that cluster near the city outskirts. Each neighborhood has its own character, often centered around a local tavern or guildhall.
+    Beyond the marketplaces, residential areas spread out in a somewhat chaotic manner, ranging from the opulent villas of the wealthy near the city's inner walls to the more modest wooden homes that cluster near the city outskirts. Each neighborhood has its own character, often centered around a local tavern or guildhall.
 
 ### City Map
 
