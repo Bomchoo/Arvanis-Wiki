@@ -13,6 +13,10 @@ The walls of Doranth, built from the pale grey stone of the nearby quarries, sta
 
 Beyond the marketplaces, residential areas spread out in a somewhat chaotic manner, ranging from the opulent villas of the wealthy near the city's inner walls to the more modest wooden homes that cluster near the city outskirts. Each neighborhood has its own character, often centered around a local tavern or guildhall.
 
+### City Map
+
+![Doranth City Map](assets/doranth.png)
+
 ### Races and Peoples of Doranth
 
 Doranth is a cultural melting pot, home to a wide variety of races and peoples:
