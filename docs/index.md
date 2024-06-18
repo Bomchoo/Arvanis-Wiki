@@ -2,15 +2,19 @@
 
 ## Welcome to the World of Terralon
 
-Welcome, intrepid adventurers, to the realm of Terralon—a land brimming with magic, mystery, and the echoes of ancient civilizations. Here in the continent of Galdor, you will embark on a journey across diverse terrains, from the lush Emerald Valley to the mysterious Mystwood, and beyond to the treacherous waters surrounding the Sapphire Isles.
+!!! success "Welcome!"
+
+    Welcome, intrepid adventurers, to the realm of Terralon—a land brimming with magic, mystery, and the echoes of ancient civilizations. Here in the continent of Galdor, you will embark on a journey across diverse terrains, from the lush Emerald Valley to the mysterious Mystwood, and beyond to the treacherous waters surrounding the Sapphire Isles.
 
 ### Key Places to Visit
 
-- **Emerald Valley**: Known for its verdant landscapes and fertile plains, it is a place of peace and agriculture, but ancient secrets lie buried beneath its soils.
-- **Mystwood**: A dense and fog-laden forest where the trees are said to be as old as Terralon itself. The wood hides creatures of old magic and forgotten shrines.
-- **The Sapphire Isles**: A cluster of islands surrounded by deep blue seas and notorious for their pirate activity as well as ancient maritime ruins.
-- **Doranth**: This bustling market city is where your journey starts. Doranth is known for its rich history and as a melting pot of cultures and commerce.
-- **The Sunken Peaks**: Mysterious mountain ranges whose tops are wreathed in clouds and are said to house the entrances to underground realms.
+!!! tip
+
+    - **Emerald Valley**: Known for its verdant landscapes and fertile plains, it is a place of peace and agriculture, but ancient secrets lie buried beneath its soils.
+    - **Mystwood**: A dense and fog-laden forest where the trees are said to be as old as Terralon itself. The wood hides creatures of old magic and forgotten shrines.
+    - **The Sapphire Isles**: A cluster of islands surrounded by deep blue seas and notorious for their pirate activity as well as ancient maritime ruins.
+    - **Doranth**: This bustling market city is where your journey starts. Doranth is known for its rich history and as a melting pot of cultures and commerce.
+    - **The Sunken Peaks**: Mysterious mountain ranges whose tops are wreathed in clouds and are said to house the entrances to underground realms.
 
 ---
 
