@@ -6,7 +6,7 @@
     Please be courteous and respectful to all players. Failure to do so can ruin the game, and take the fun from other players. Please read and acknowledge the rules below, as you will be held to them. I as the DM will hold myself to these rules as well. 
 
 
- ## <span class="yellow-text">**Rules for Being a Good Player: Behavior and Respect In and Out of Game**</span>
+<span class="yellow-text">**Rules for Being a Good Player: Behavior and Respect In and Out of Game**</span>
 
 | Rule Number | Description |
 |-------------|-------------|
