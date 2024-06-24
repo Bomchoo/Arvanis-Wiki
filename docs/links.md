@@ -9,7 +9,20 @@
 |                         | **FoundryVTT**                       | Highly customizable virtual tabletop with tools for online role-playing. Supports dynamic lighting and digital dice rolling. | [FoundryVTT](https://foundryvtt.com/)                       |
 |                         | **D&D Beyond Android App**           | Mobile app to manage characters and access D&D content on Android devices.                                                    | [Google Play Store](https://play.google.com/store/apps/details?id=com.fandom.playercompanion) |
 
+
+---
+
+## Interactive Map of Doranth
+
+Click the link below to take you to the Interactive Map of Doranth!
+
+[Interactive Map](https://www.fantasytowngenerator.com/public-settlements/a21f29a2-b303-4566-91f0-8a35c95913e0)
+
+---
+
+
 ## Voice Chat
+
 
 # Discord Setup Guide for D&D Sessions
 
